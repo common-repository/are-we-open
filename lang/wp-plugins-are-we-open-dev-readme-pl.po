@@ -1,0 +1,56 @@
+# Translation of Plugins - Are we open? - Development Readme (trunk) in Polish
+# This file is distributed under the same license as the Plugins - Are we open? - Development Readme (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: +0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: pl\n"
+"Project-Id-Version: Plugins - Are we open? - Development Readme (trunk)\n"
+
+#. Name.
+msgid "Are we open?"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "All feedback will be appreciated :)"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Plugin uses 24-hour time format."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Exceptions can be set \"overnight\", ie. 31.12.2016 18:00 - 12:00 the next day."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "You can define standard (Monday to Sunday) opening hours / close days, and also create exceptions for holidays, black friday etc."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "This plugin allows You to plan &amp; display business opening hours on Your WordPress website."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "usability improvements"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "fix text domain name, fixing translations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "fix text domain to (hopefully) allow adding translations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "more elaborate description"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "no longer break div.wrap on admin :)"
+msgstr ""

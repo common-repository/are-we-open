@@ -1,0 +1,106 @@
+# Copyright (C) 2016 Are we open?
+# This file is distributed under the same license as the Are we open? package.
+msgid ""
+msgstr ""
+
+#: are-we-open.php:140 awo-admin.php:168 awo-admin.php:211 awo-admin.php:249
+msgid "closed"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (Are we open? 1.0.4)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: awo-admin.php:5 awo-admin.php:6 awo-widget.php:14
+msgid "Are we open?"
+msgstr ""
+
+#: awo-admin.php:16
+msgid "There are empty fields"
+msgstr ""
+
+#: awo-admin.php:17
+msgid "'Until' date cannot be before 'from' date."
+msgstr ""
+
+#: awo-admin.php:18
+msgid "Confirm removing exception"
+msgstr ""
+
+#: awo-admin.php:19
+msgid "Removal failed"
+msgstr ""
+
+#: awo-admin.php:164 awo-admin.php:207 awo-admin.php:227
+msgid "from"
+msgstr ""
+
+#: awo-admin.php:164 awo-admin.php:207 awo-admin.php:230
+msgid "until"
+msgstr ""
+
+#: awo-admin.php:181
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: awo-admin.php:189
+msgid "Are we open? Settings"
+msgstr ""
+
+#: awo-admin.php:193
+msgid ""
+"Timezone not set - please set Your timezone in WordPress general settings. "
+"Otherwise, GMT is assumed."
+msgstr ""
+
+#: awo-admin.php:197
+msgid "Standard opening hours"
+msgstr ""
+
+#: awo-admin.php:219 awo-admin.php:234
+msgid "Clear"
+msgstr ""
+
+#: awo-admin.php:220 awo-admin.php:235
+msgid "Save"
+msgstr ""
+
+#: awo-admin.php:224
+msgid "Exceptions"
+msgstr ""
+
+#: awo-admin.php:242
+msgid "Planned exceptions"
+msgstr ""
+
+#: awo-admin.php:260
+msgid "the next day"
+msgstr ""
+
+#: awo-admin.php:263
+msgid "Delete"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (Are we open? 1.0.4)  #-#-#-#-#
+#. Description of the plugin/theme
+#: awo-widget.php:15
+msgid "Plan & display business opening hours."
+msgstr ""
+
+#: awo-widget.php:46 awo-widget.php:51
+msgid "Title"
+msgstr ""
+
+#: awo-widget.php:48 awo-widget.php:61
+msgid "Link text"
+msgstr ""
+
+#: awo-widget.php:56
+msgid "URL"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Wojciech Międzybrodzki, Andrzej Regmunt"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://miedzybrodzki.net"
+msgstr ""

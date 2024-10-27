@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+
+# Are we open?
+msgid "Are we open?"
+msgstr "Czy otwarte?"
+
+msgid "Plan & display business opening hours."
+msgstr "Zaplanuj i wyświetl godziny otwarcia."
+
+msgid "Title"
+msgstr "Tytuł"
+
+msgid "Link text"
+msgstr "Tekst odnośnika"
+
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Nie masz wystarczających uprawnień aby wyświetlić tę stronę."
+
+msgid "Are we open? Settings"
+msgstr "Ustawienia - Czy otwarte? "
+
+msgid "Standard opening hours"
+msgstr "Domyślne godziny otwarcia"
+
+msgid "from"
+msgstr "od"
+
+msgid "until"
+msgstr "do"
+
+msgid "closed"
+msgstr "nieczynne"
+
+msgid "Exceptions"
+msgstr "Wyjątki"
+
+msgid "There are empty fields"
+msgstr "Nie wszystkie pola zostały wypełnione"
+
+msgid "'Until' date cannot be before 'from' date."
+msgstr "Data 'do' nie może być wcześniejsza od daty 'od'"
+
+msgid "the next day"
+msgstr "następnego dnia"
+
+msgid "Planned exceptions"
+msgstr "Zaplanowane wyjątki"
+
+msgid "Timezone not set - please select Your timezone in WordPress general settings. Otherwise, GMT is assumed."
+msgstr "Przyjęto domyślną strefę czasową (GMT). Proszę wybrać właściwą strefę czasową w ustawieniach ogólnych swojego WordPressa."
+
+msgid "Confirm removing exception"
+msgstr "Potwierdź usunięcie wyjątku"
+
+msgid "Removal failed"
+msgstr "Usunięcie nie powiodło się."
